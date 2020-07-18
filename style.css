@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: Ubuntu, Times;
+  font-family: Times, Times;
 }
 
 html,
@@ -52,7 +52,7 @@ body {
   color: rgb(124, 117, 117);
 }
 
-/* Adding styles to the aside and filter form */
+/* Thank you for the idea Dan, much appreciated */
 .ufo-form {
   margin-top: 75px;
 }
